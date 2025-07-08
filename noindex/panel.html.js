@@ -16,7 +16,7 @@
         <span class="header-button-content">JP</span>
       </a>
       <a class="header-button games-header-button base-gradient-border" href="ipc.html" rel="nofollow, noopener, noreferrer" target="_blank">
-        <img class="header-button-content" alt="telegram" height="16" src="./noindex/img/other/Hearth.svg" title="telegram"
+        <img class="header-button-content" alt="telegram" height="16" src="https://cdn.jsdelivr.net/gh/vavada-online-casino/assets-vavada@main/noindex/img/other/Hearth.svg" title="telegram"
           width="16">
       </a>
     </div>
