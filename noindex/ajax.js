@@ -1,16 +1,16 @@
 (function ($) {
   $(function () {
-    $("#panel").load("./noindex/panel.html.js", function(response, status, xhr) {
+    $("#panel").load("https://cdn.jsdelivr.net/gh/vavada-online-casino/assets-vavada@main/noindex/panel.html.js", function(response, status, xhr) {
       if (status == "error") {
         console.error("Error loading panel.html.js: " + xhr.status + " " + xhr.statusText);
       }
     });
-    $("#block_big").load("./noindex/gameBig.html.js", function(response, status, xhr) {
+    $("#block_big").load("https://cdn.jsdelivr.net/gh/vavada-online-casino/assets-vavada@main/noindex/gameBig.html.js", function(response, status, xhr) {
       if (status == "error") {
         console.error("Error loading gameBig.html.js: " + xhr.status + " " + xhr.statusText);
       }
     });
-    $("#sport").load("./noindex/sport.html.js", function(response, status, xhr) {
+    $("#sport").load("https://cdn.jsdelivr.net/gh/vavada-online-casino/assets-vavada@main/noindex/sport.html.js", function(response, status, xhr) {
       if (status == "error") {
         console.error("Error loading sport.html.js: " + xhr.status + " " + xhr.statusText);
       }
